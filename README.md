@@ -1,4 +1,5 @@
 ## Hi there 👋
+This repository exists to showcase my programming skills!
 
 <!--
 **Ricardo-Tanabe/Ricardo-Tanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
